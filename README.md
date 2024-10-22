@@ -13,11 +13,11 @@
   [WEB-Client](https://github.com/alexavoicu/Web-Client-with-REST-API)
 - **Stack and Queue implementation with all functionalities:**  
   [Stack-and-Queue-Implementation](https://github.com/alexavoicu/Stack-and-Queue-Implementation)
-  - **Image Compression Quatenary Tree :**  
+- **Image Compression Quatenary Tree :**  
   [Image Compression Tree](https://github.com/alexavoicu/Image-Compression-Tree)
 
 ## Java Language Projects
-- **Java videos database:**  
+- **GlobalWaves a Spotify Simulator:**  
   [GlobalWaves-Spotify Simulator](https://github.com/alexavoicu/GlobalWaves-Project)
 
 ## Functional & Logical Programming Projects (Scala / Haskell)
