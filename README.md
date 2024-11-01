@@ -21,7 +21,7 @@
   [GlobalWaves-Spotify Simulator](https://github.com/alexavoicu/GlobalWaves-Project)
 
 ## Functional & Logical Programming Projects (Scala / Haskell)
-- **Lambda Calculus Interprete in Haskell:**  
+- **Lambda Calculus Interpreter in Haskell:**  
   [Lambda-Calculus-Interpreter](https://github.com/alexavoicu/Lambda-Calculus-Interpreter)
 - **Query Language Implementation inspired by SQL**  
   [Query-Language](https://github.com/alexavoicu/Query-Language)
