@@ -17,14 +17,14 @@
   [Image Compression Tree](https://github.com/alexavoicu/Image-Compression-Tree)
 
 ## Java Language Projects
-- **GlobalWaves a Spotify Simulator:**  
+- **GlobalWaves - music streaming app simulator:**  
   [GlobalWaves-Spotify Simulator](https://github.com/alexavoicu/GlobalWaves-Project)
 
 ## Functional & Logical Programming Projects (Scala / Haskell)
-- **Lambda Calculus Interpreter:**  
+- **Lambda Calculus Interprete in Haskell:**  
   [Lambda-Calculus-Interpreter](https://github.com/alexavoicu/Lambda-Calculus-Interpreter)
 - **Query Language Implementation inspired by SQL**  
-  [Query-Language](hhttps://github.com/alexavoicu/Query-Language)
+  [Query-Language](https://github.com/alexavoicu/Query-Language)
 - **Liniar Regression on property pricings**  
   [Liniar-Regression](https://github.com/alexavoicu/Liniar-Regression)
 
